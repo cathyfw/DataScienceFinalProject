@@ -1,0 +1,258 @@
+AberfoyleStirling
+ [["('glasgow	Aber	0
+the river forth	Aber	1
+craigmore	Aber	2
+loch katrine	Aber	3
+a road	Aber	4
+the trossachs	Aber	5
+loch ard	Aber	6
+the sea	Aber	7
+scottish gaelic	Aber	8
+aberfoyle railway station	Aber	9
+loch lomond	Aber	10
+inchmahome priory	Aber	11
+rob roy	Aber	12
+the uk	Aber	13
+the area surrounding aberfoyle	Aber	14
+her short reign	Aber	15
+fairies	Aber	16
+the spectre of kirk	Aber	17
+an iron knife	Aber	18
+visitors to doon hill	Aber	19
+the trees for the fairies	Aber	20
+aberfoyle	Aber	21
+loch chon	Aber	22
+aberfoyle railway station	Aber	9
+the lady of the lake	Aber	24
+the most local historical figure	Aber	25
+doon hill	Aber	26
+their wishes	Aber	27
+
+
+Anatole_Fran
+ [["('paris	Anat	0
+the nobel prize for literature	Anat	1)"]
+
+
+Barack_O
+ [["('african american	Bara	0
+honolulu	Bara	1
+harvard law school	Bara	2
+the harvard law review	Bara	3
+harvard university	Bara	4
+the university of chicago law school	Bara	5
+constitutional law	Bara	6
+the illinois senate	Bara	7
+the united states house of representatives	Bara	8
+the democratic national convention	Bara	9
+senate	Bara	10
+hillary rodham clinton	Bara	11
+the 2009 nobel peace prize laureate	Bara	12
+republican nominee mitt romney	Bara	13
+november 2012	Bara	14)"]
+
+
+Blood_on_the_Track
+ [["('bob dylan	Bloo	0
+columbia records	Bloo	1
+blood on the tracks	Bloo	2
+the songs	Bloo	3
+neil young	Bloo	4
+graham nash	Bloo	5
+stephen stills	Bloo	6
+highway 61 revisited	Bloo	7
+the experience	Bloo	8
+a verse	Bloo	9
+eric weissberg	Bloo	10)"]
+
+
+Cana
+ [["('north american	Cana	0
+the pacific	Cana	1
+the atlantic	Cana	2)"]
+
+
+Concise_Oxford_English_Dictionary
+ [["('the concise oxford english dictionary	Conc	0
+the military operation that resulted in the death of osama bin laden	Bara	154
+the oed	Conc	2
+the game show countdown	Conc	3)"]]}
+
+
+Crystal_Eastma
+ [['("the duke \'s road"	\'Aber\	4)'
+
+
+Eldridge_Po
+ [["('dorchester	Eldr	0
+hotel landlord charles eldridge and his wife sarah	Eldr	1
+local brewer samuel mason	Eldr	2
+loch chon	Aber	22
+loch ard	Aber	6
+hotel landlord charles eldridge	Eldr	5
+edwin pope	Eldr	6
+his wife sarah	Eldr	7)"]
+
+
+Environmental_scien
+ [["('biological sciences	Envi	0
+atmospheric sciences	Envi	1
+the environment	Envi	2
+the solution of environmental problems	Envi	3
+environmental engineering	Envi	4
+environmental issues	Envi	5
+organisms	Envi	6
+their environment	Envi	7
+geosciences	Envi	8)"]
+
+
+FedE
+ [['("the duke \'s road"	\'Aber\	4)'
+
+
+Federated_States_of_Micro
+ [["('soil contamination	Envi	17
+the philippines	Fede	1
+australia	Fede	2
+
+
+Financial_analy
+ [["('the united states	Bara	133
+one example	Fina	1
+senior analysts	Fina	2
+the data entry job	Fina	3
+
+
+Georg_Henrik_von_Wrig
+ [['("the duke \'s road"	\'Aber\	4)'
+
+
+Gonzales_(musician)
+ [["('paris	Anat	0
+warner music canada	Gonz	1
+canada	Cana	118
+
+
+Harry_Potter_and_the_Chamber_of_S
+ [["('harry potter and the chamber of secrets	Harr	0
+a celebrated literary salon of the third republic	Anat	17
+the plot	Harr	2)"]
+
+
+Houston_Texa
+ [["('a new fight song	Hous	0
+houston	Hous	1
+the south division of the american football conference	Hous	2)"]
+
+
+Jarvis_Islan
+ [["('hawaii	Bara	162
+coral island	Jarv	1
+the administration of russian president dmitry medvedev	Bara	21
+scottish gaelic	Aber	8
+gaidhlig	Aber	8
+the lady of the lake	Aber	24
+the ground	Jarv	6
+the guano islands act	Jarv	7
+daft punk	Gonz	15
+the house of representatives	Bara	8
+1930s	Jarv	10)"]
+
+
+Johnston_Ato
+ [["('pacific ocean	Fede	26
+the house of representatives	Bara	8
+
+
+KBattle_of_Kosovo
+ [["('the canadian corps	Cana	48
+the house of representatives	Bara	8
+the expansion team	Hous	42
+vice president joe biden	Bara	49
+king tvrtko i	KBat	4)"]
+
+
+Los_Angeles_Pierce_Colleg
+ [["('the military operation that resulted in the death of osama bin laden	Bara	154
+
+
+Method_of_Fluxio
+ [["('isaac newton	Meth	0
+method of fluxions	Meth	1
+his calculus	Meth	2
+gottfried leibniz	Meth	3
+a swarm of anoplolepis ants	John	36
+fluxions	Meth	5)"]]}
+
+
+Michael_Foo
+ [["('3 march 2010	Mich	0
+the campaign for nuclear disarmament	Mich	1
+the european economic community	Mich	2
+james callaghan	Mich	3
+harold wilson	Mich	4
+the house of commons	Cana	82
+the 1983 general election	Mich	6
+tribune	Mich	7
+the house of representatives	Bara	8
+water pollution	Envi	14
+aneurin bevan	Mich	10
+the house of representatives	Bara	8
+plymouth	Mich	12
+oxford university labour club president david lewis	Mich	13
+europe	Bara	33
+
+
+Rhodes_piano
+ [["('cbs	Rhod	0
+fender	Rhod	1)"]
+
+
+Robert_Bo
+ [['("the duke \'s road"	\'Aber\	4)'
+
+
+SBattle_of_Seneff
+ [["('the battle of seneffe	SBat	0
+the statute of westminster 1931	Cana	50
+france	Anat	19
+the duke of montrose	Aber	30
+the dutch vanguard	SBat	4
+northern france	SBat	5
+french army	SBat	6)"]
+
+
+Siege_of_Chav
+ [["('the coast guard	John	13
+
+
+University_of_Sydney
+camperdown	Univ	0
+darlington	Univ	1
+three nobel laureates	Univ	2
+the world	Bara	79
+the developing communities project	Bara	169
+the village that macgregor was reputed to have climbed and hid in to escape the clutches of the law	Aber	21
+aberfoyle railway station	Aber	9
+the new south wales legislative assembly	Univ	7
+his friend ron weasley and brothers fred and george	Harr	16
+the gateway to the trossachs	Aber	21
+
+
+WBattle_of_Wittstock
+ [["('alexander leslie	WBat	0
+the data entry job	Fina	3
+the army air corps piano	Rhod	8
+saxon	WBat	3
+a refueling and resupply base	John	12
+the elbe	WBat	5
+the incumbent president	Bara	165
+the colonization period	Cana	125
+scottish gaelic	Aber	8
+part of an adversarial parliamentary system intended to keep the government in check	Cana	148
+the french	Quas	22
+the house of representatives	Bara	8
+five of his regiments	WBat	12
+johan baner	WBat	13
+the inuit	Cana	25
+the imperialists	WBat	15)"]
